@@ -1,0 +1,5 @@
+$border-color: #aaa;
+.container {
+  $border-width: 2px;
+  border: $border-width solid $border-color;
+}
